@@ -1,4 +1,4 @@
-user_nameloggingin<?php
+<?php
     session_start();
     include "connect.php";
 ?>
